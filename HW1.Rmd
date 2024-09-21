@@ -1,0 +1,12 @@
+---
+title: "Homework 1"
+output: github_document
+---
+Name: Yuchen Gu
+
+```{r, echo=FALSE, message=FALSE}
+
+library(tidyverse)
+
+```
+
