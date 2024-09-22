@@ -119,6 +119,8 @@ mean_numeric_char <- mean(numeric_char, na.rm = TRUE)
 mean_numeric_factor <- mean(numeric_factor, na.rm = TRUE)
 ```
 
+After converting to numeric and recalculating means:
+
 1.  Logical vector: Mean is 0.5, representing the proportion of TRUE
     values.
 2.  Character vector: Mean is NaN. It’s NA because characters couldn’t
